@@ -15,6 +15,10 @@ Download and Unzip Report_smcs, then copy Report_smcsdirectory to protected/modu
 'modules'=>array(       
             'report_smcs',      
     ),
+    
+    create folder on directry  name as report
+    
 Usage 
+
 
 select data table which you want to get report
