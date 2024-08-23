@@ -12,11 +12,11 @@ Requirements
 intallation 
 
 Download and Unzip Report_smcs, then copy Report_smcsdirectory to protected/modules.
-
+```
 'modules'=>array(       
             'report_smcs',      
     ),
-    
+   ``` 
     create folder on directry  name as report
     
 Usage 
